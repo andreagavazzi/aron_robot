@@ -1,7 +1,7 @@
 # Aron
 Aron is my variation of the Poppy Humanoid robot. It is a robot torso which is more affordable than the Poppy Humanoid and therefore it is an ideal medium to learn science, technology, engineering and mathematics.
 Like Poppy Humanoid, Aron is an open-source robot (both hardware and software), built with 3D printed parts and Dynamixel servomotors, known for their reliability.
-Aron's brain combines the power of the NVIDIA Jetson Orin for vision recognition and image processing, along with the Teensy acting as its limbic system for emotional reactions.
+Aron's brain combines the power of the NVIDIA Jetson Orin Nano for vision recognition and image processing, along with the Teensy acting as its limbic system for emotional reactions.
 
 ### NVIDIA Jetson Orin Nano (Brain):
 Purpose: The Jetson Orin Nano serves as the high-performance cognitive center of Aron's brain.
