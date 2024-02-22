@@ -22,3 +22,6 @@ Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent mo
 - Smart Communication: Dynamixel motors communicate via UART, enabling seamless coordination with Jetson Orin Nano.
 - Customizable Behavior: They can be programmed on specific joint behaviors, such as compliant motion or torque limits.
 
+
+<img align="right" src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/ag_logo.jpg" alt="ag_logo" width="200"/>  
+
