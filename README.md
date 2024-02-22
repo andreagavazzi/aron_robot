@@ -5,7 +5,6 @@ Aron's brain combines the power of the NVIDIA Jetson Orin for vision recognition
 
 ### NVIDIA Jetson Orin Nano (Brain):
 Purpose: The Jetson Orin Nano serves as the high-performance cognitive center of Aron's brain.
-Capabilities:
 - Vision Recognition: With impressive processing power, Jetson Orin Nano analyzes visual data from cameras, and other sensors. It identifies objects, detects patterns, and recognizes scenes.
 - Image Processing: Jetson Orin Nano efficiently handles image manipulation tasks such as filtering, edge detection, and feature extraction.
 - Deep Learning: It runs neural networks for complex tasks like object detection, semantic segmentation, and pose estimation.
@@ -13,13 +12,11 @@ Capabilities:
 
 ### Teensy (Limbic System):
 Inspired by the human limbic system, the Teensy 4.1 board provides emotional responses.
-Capabilities:
 - Emotional State Simulation: The Teensy emulates emotions like joy, fear, curiosity based on input from the Jetson Orin Nano. For example, it might express excitement when recognizing a friendly face.
 - Visual feedback to routine running in the brain: If Jetson Orin Nano is trowing an error, debug informations are easily visualized
 
 ### Dynamixel Intelligent Motors (Joint Control):
 Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent motors. These motors provide precise control to execute physical movements.
-Features:
 - Position Control: Dynamixel motors allow fine-grained position control, ensuring accurate joint angles.
 - Feedback Mechanism: They provide real-time feedback on joint position, temperature, and load.
 - Smart Communication: Dynamixel motors communicate via UART, enabling seamless coordination with Jetson Orin Nano.
