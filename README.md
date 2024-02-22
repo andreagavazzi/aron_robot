@@ -20,5 +20,5 @@ Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent mo
 - Position Control: Dynamixel motors allow fine-grained position control, ensuring accurate joint angles.
 - Feedback Mechanism: They provide real-time feedback on joint position, temperature, and load.
 - Smart Communication: Dynamixel motors communicate via UART, enabling seamless coordination with Jetson Orin Nano.
-- Customizable Behavior: We can program specific joint behaviors, such as compliant motion or torque limits.
+- Customizable Behavior: They can be programmed on specific joint behaviors, such as compliant motion or torque limits.
 
