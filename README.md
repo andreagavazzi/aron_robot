@@ -15,7 +15,7 @@ Purpose: The Jetson Orin Nano serves as the high-performance cognitive center of
 ### Teensy (Limbic System):
 Inspired by the human limbic system, the Teensy 4.1 board provides emotional responses.
 - Emotional State Simulation: The Teensy emulates emotions like joy, fear, curiosity based on input from the Jetson Orin Nano. For example, it might express excitement when recognizing a friendly face.
-- Visual feedback to routine running in the brain: If Jetson Orin Nano is trowing an error, debug informations are easily visualized
+- Visual feedback to routine running in the brain: If Jetson Orin Nano is throwing an error, debug informations are easily visualized.
 
 ### Dynamixel Intelligent Motors (Joint Control):
 Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent motors. These motors provide precise control to execute physical movements.
