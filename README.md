@@ -1,4 +1,5 @@
 <img align="right" src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/ag_logo.jpg" alt="ag_logo" width="200"/>  
+
 # Aron
 Aron is my variation of the Poppy Humanoid robot. It is a robot torso which is more affordable than the Poppy Humanoid and therefore it is an ideal medium to learn science, technology, engineering and mathematics.
 Like Poppy Humanoid, Aron is an open-source robot (both hardware and software), built with 3D printed parts and Dynamixel servomotors, known for their reliability.
