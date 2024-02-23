@@ -10,7 +10,7 @@ Purpose: The Jetson Orin Nano serves as the high-performance cognitive center of
 - Vision Recognition: With impressive processing power, Jetson Orin Nano analyzes visual data from cameras, and other sensors. It identifies objects, detects patterns, and recognizes scenes.
 - Image Processing: Jetson Orin Nano efficiently handles image manipulation tasks such as filtering, edge detection, and feature extraction.
 - Deep Learning: It runs neural networks for complex tasks like object detection, semantic segmentation, and pose estimation.
-- High-Speed Interfaces: Jetson Orin Nano supports interfaces like PCIe Gen4, USB 3.1, and Gigabit Ethernet, enabling seamless communication with external devices.
+- High-Speed Interfaces: Jetson Orin Nano supports interfaces like PCIe Gen4, USB 3.1, and Gigabit Ethernet, enabling seamless communication with external devices.  
 
 ### Teensy (Limbic System):
 Inspired by the human limbic system, the Teensy 4.1 board provides emotional responses.
@@ -25,5 +25,6 @@ Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent mo
 - Customizable Behavior: They can be programmed on specific joint behaviors, such as compliant motion or torque limits.
 
 
-  
-
+<p align="center">
+  <img width="600" src="https://github.com/andreagavazzi/aron/blob/main/pics/nvidia_champ.png" alt="ag_logo">
+</p>
