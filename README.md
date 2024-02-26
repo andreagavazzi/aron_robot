@@ -26,9 +26,9 @@ Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent mo
 
 ### Packages
 
-| Package name | Description | Link |
+| Package name | Description | Notes |
 | -------- | ----------- | :-----------: |
-| aron_description | This package contains the URDFs and meshes for Aron | ['aron](https://github.com/andreagavazzi/aron_description)' |
+| [aron_description](https://github.com/andreagavazzi/aron_description) | This package contains the URDFs and meshes for Aron |  |
 
 <p align="center">
   <img width="600" src="https://github.com/andreagavazzi/aron/blob/main/pics/nvidia_champ.png" alt="ag_logo">
