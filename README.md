@@ -28,3 +28,5 @@ Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent mo
 <p align="center">
   <img width="600" src="https://github.com/andreagavazzi/aron/blob/main/pics/nvidia_champ.png" alt="ag_logo">
 </p>
+
+[![3D Interactive view](https://github.com/andreagavazzi/aron/blob/main/pics/nvidia_champ.pn)](https://collaborate.shapr3d.com/v/N6kiM8O_q4no-M4yc836B){:target="_blank"} 
