@@ -29,6 +29,9 @@ Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent mo
 | Package name | Description | Notes |
 | -------- | ----------- | :-----------: |
 | [aron_description](https://github.com/andreagavazzi/aron_description) | This package contains the URDFs and meshes for Aron |  |
+| [aron_control](https://github.com/andreagavazzi/aron_control) | This package contains the configurations and launch files |  |
+| [aron_ros_control](https://github.com/andreagavazzi/aron_ros_control) | This package provides the ROS controllers needed to MoveIt  |  |
+
 
 <p align="center">
   <img width="600" src="https://github.com/andreagavazzi/aron/blob/main/pics/nvidia_champ.png" alt="ag_logo">
