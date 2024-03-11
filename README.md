@@ -32,7 +32,9 @@ Currently only ROS is supported
 | [aron_description](https://github.com/andreagavazzi/aron_description) | This package contains the URDFs and meshes for Aron |  |
 | [aron_control](https://github.com/andreagavazzi/aron_control) | This package contains the configurations and launch files |  |
 | [aron_ros_control](https://github.com/andreagavazzi/aron_ros_control) | This package provides the ROS controllers for MoveIt  |  |
-|  |  |  |
+
+
+#  
 
  <p align="left">
   <img width="500" src="https://github.com/andreagavazzi/aron/blob/main/pics/ros_gazebo.png" alt="ag_logo">
