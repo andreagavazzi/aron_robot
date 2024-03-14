@@ -37,7 +37,7 @@ Currently only ROS is supported
 #  
 
  <p align="left">
-  <img width="500" src="https://github.com/andreagavazzi/aron/blob/main/pics/ros_gazebo.png" alt="ag_logo">
+  <img width="300" src="https://github.com/andreagavazzi/aron/blob/main/pics/ros_gazebo.png" alt="ag_logo">
 </p>
 
 
