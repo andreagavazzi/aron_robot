@@ -5,6 +5,15 @@ Aron is my variation of the Poppy Humanoid robot. It is a robot torso which is a
 Like Poppy Humanoid, Aron is an open-source robot (both hardware and software), built with 3D printed parts and Dynamixel servomotors, known for their reliability.
 Aron's brain combines the power of the NVIDIA Jetson Orin Nano for vision recognition and image processing, along with the Teensy acting as its limbic system for emotional reactions.
 
+### Packages
+Currently only ROS is supported
+
+| Package name | Description | Notes |
+| -------- | ----------- | :-----------: |
+| [aron_description](https://github.com/andreagavazzi/aron_description) | This package contains the URDFs and meshes for Aron |  |
+| [aron_control](https://github.com/andreagavazzi/aron_control) | This package contains the configurations and launch files |  |
+| [aron_ros_control](https://github.com/andreagavazzi/aron_ros_control) | This package provides the ROS controllers for MoveIt  |  |
+
 ### NVIDIA Jetson Orin Nano (Brain):
 Purpose: The Jetson Orin Nano serves as the high-performance cognitive center of Aron's brain.
 - **Vision Recognition**: With impressive processing power, Jetson Orin Nano analyzes visual data from cameras, and other sensors. It identifies objects, detects patterns, and recognizes scenes.
@@ -23,16 +32,6 @@ Integration with Joints: Aron's jonts are equipped with Dynamixel intelligent mo
 - **Feedback Mechanism**: They provide real-time feedback on joint position, temperature, and load.
 - **Smart Communication**: Dynamixel motors communicate via UART, enabling seamless coordination with Jetson Orin Nano.
 - **Customizable Behavior**: They can be programmed on specific joint behaviors, such as compliant motion or torque limits.  
-
-### Packages
-Currently only ROS is supported
-
-| Package name | Description | Notes |
-| -------- | ----------- | :-----------: |
-| [aron_description](https://github.com/andreagavazzi/aron_description) | This package contains the URDFs and meshes for Aron |  |
-| [aron_control](https://github.com/andreagavazzi/aron_control) | This package contains the configurations and launch files |  |
-| [aron_ros_control](https://github.com/andreagavazzi/aron_ros_control) | This package provides the ROS controllers for MoveIt  |  |
-
 
 #  
 
